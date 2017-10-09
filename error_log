@@ -1,0 +1,7 @@
+[30-Jun-2016 20:38:02 UTC] PHP Fatal error:  Call to undefined method global_declare::delete() in /home/technologyminds/public_html/dev/funclub/manage/edit_product.php on line 165
+[04-Jul-2017 17:09:46 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/technologyminds/public_html/dev/funclub/manage/interior_design.php on line 14
+[04-Jul-2017 17:11:34 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/technologyminds/public_html/dev/funclub/manage/interior_design.php on line 15
+[04-Jul-2017 17:13:38 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/technologyminds/public_html/dev/funclub/manage/interior_design.php on line 16
+[04-Jul-2017 18:48:24 UTC] PHP Fatal error:  Call to undefined method mysqli::mysqli_query() in /home/technologyminds/public_html/dev/funclub/manage/interior_design.php on line 16
+[05-Jul-2017 15:46:30 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/technologyminds/public_html/dev/funclub/manage/add_interior.php on line 23
+[05-Jul-2017 15:48:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/technologyminds/public_html/dev/funclub/manage/add_interior.php on line 22
